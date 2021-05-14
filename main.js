@@ -1,1 +1,1 @@
-console.log("HI JS there")
+console.log("HI JS")
